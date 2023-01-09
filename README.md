@@ -1,3 +1,7 @@
+
+- [Site](https://alex-hedley.github.io/)
+- [Blog](https://alex-hedley.github.io/blog)
+
 ### 📢 Find me elsewhere
 
   <a href="https://www.linkedin.com/in/alexhedley/">
