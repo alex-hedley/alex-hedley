@@ -30,6 +30,12 @@
     <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
   </a>
 
+### Badges
+
+- [Credly](https://www.credly.com/users/alexhedley/badges)
+
+[![Cloud Quest - Cloud Practioner](images/badges/CloudQuestCloudPractioner.png "Cloud Quest - Cloud Practioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
 <!--
 ### Hi there 👋
 
