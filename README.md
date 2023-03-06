@@ -1,4 +1,3 @@
-
 - [Site](https://alex-hedley.github.io/)
 - [Blog](https://alex-hedley.github.io/blog)
 
@@ -34,7 +33,9 @@
 
 - [Credly](https://www.credly.com/users/alexhedley/badges)
 
-[![Cloud Quest - Cloud Practioner](images/badges/CloudQuestCloudPractioner.png "Cloud Quest - Cloud Practioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+<!-- [![Cloud Quest - Cloud Practioner](images/badges/CloudQuestCloudPractioner.png "Cloud Quest - Cloud Practioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/) -->
+
+[![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
 <!--
 ### Hi there 👋
