@@ -1,6 +1,26 @@
 - [Site](https://alex-hedley.github.io/)
 - [Blog](https://alex-hedley.github.io/blog)
 
+### Badges
+
+- [Credly](https://www.credly.com/users/alexhedley/badges)
+
+## AWS Certified
+
+- Cloud Practitioner (Foundational)
+
+[![AWS Certified Cloud Practitioner](images/badges/AWS-Certified-Cloud-Practitioner_badge.png "AWS Certified Cloud Practitioner")](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+<!-- [![Cloud Quest - Cloud Practioner](images/badges/CloudQuestCloudPractitioner.png "Cloud Quest - Cloud Practitioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/) -->
+
+## Cloud Quest
+
+- Cloud Practitioner
+- Serverless Developer
+
+[![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
+
 ### 📢 Find me elsewhere
 
   <a href="https://www.linkedin.com/in/alexhedley/">
@@ -28,14 +48,6 @@
   <a href="https://code.visualstudio.com">
     <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
   </a>
-
-### Badges
-
-- [Credly](https://www.credly.com/users/alexhedley/badges)
-
-<!-- [![Cloud Quest - Cloud Practioner](images/badges/CloudQuestCloudPractioner.png "Cloud Quest - Cloud Practioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/) -->
-
-[![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
 <!--
 ### Hi there 👋
