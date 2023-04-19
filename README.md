@@ -1,5 +1,6 @@
 - [Site](https://alex-hedley.github.io/)
 - [Blog](https://alex-hedley.github.io/blog)
+- [🎙️ Talks](https://alex-hedley.github.io/talks)
 
 ### Badges
 
@@ -19,7 +20,6 @@
 - Serverless Developer
 
 [![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
-
 
 ### 📢 Find me elsewhere
 
