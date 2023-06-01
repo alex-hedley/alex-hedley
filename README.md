@@ -22,6 +22,14 @@
 
 [![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
+## (ISC)²
+
+- Candidate
+- Certified in Cybersecurity℠ - CC
+
+[![(ISC)² Candidate](images/badges/isc-candidate.png "(ISC)² Candidate")](https://www.isc2.org/Membership)
+[![(ISC)² CC](images/badges/CC.png "(ISC)² CC")](https://www.isc2.org/Certifications/CC)
+
 ### 📢 Find me elsewhere
 
   <a href="https://www.linkedin.com/in/alexhedley/">
