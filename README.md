@@ -19,6 +19,7 @@
 - Cloud Practitioner
 - Serverless Developer
 - Solutions Architect
+- Data Analytics
 
 [![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
