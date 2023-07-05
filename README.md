@@ -20,6 +20,7 @@
 - Serverless Developer
 - Solutions Architect
 - Data Analytics
+- Machine Learning
 
 [![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
