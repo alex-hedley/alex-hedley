@@ -1,12 +1,16 @@
 - [Site](https://alex-hedley.github.io/)
-- [Blog](https://alex-hedley.github.io/blog)
 - [🎙️ Talks](https://alex-hedley.github.io/talks)
+
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge)](https://alex-hedley.github.io/blog/)
+[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://alex-hedley.github.io/blog/feed.rss)
 
 ### Badges
 
-- [Credly](https://www.credly.com/users/alexhedley/badges)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alexhedley/badges)
 
 ## AWS
+
+[![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazonaws&logoColor=amazonorange)](https://aws.amazon.com/)
 
 ### Certified
 
