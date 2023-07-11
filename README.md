@@ -6,23 +6,24 @@
 
 - [Credly](https://www.credly.com/users/alexhedley/badges)
 
-## AWS Certified
+## AWS
+
+### Certified
 
 - Cloud Practitioner (Foundational)
 
 [![AWS Certified Cloud Practitioner](images/badges/AWS-Certified-Cloud-Practitioner_badge.png "AWS Certified Cloud Practitioner")](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-<!-- [![Cloud Quest - Cloud Practioner](images/badges/CloudQuestCloudPractitioner.png "Cloud Quest - Cloud Practitioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/) -->
-
-## Cloud Quest
+### Cloud Quest
 
 - Cloud Practitioner
 - Serverless Developer
 - Solutions Architect
 - Data Analytics
 - Machine Learning
+- Security
 
-[![Cloud Quest](images/badges/cqallbadges4.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![Cloud Quest](images/badges/cqallbadges4_c.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
 ## (ISC)²
 
@@ -34,45 +35,10 @@
 
 ### 📢 Find me elsewhere
 
-  <a href="https://www.linkedin.com/in/alexhedley/">
-    <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexhedley/)
 
 ### 🚧 I build with...
 
-  <a href="https://www.java.com/en/">
-    <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://kotlinlang.org">
-    <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/kotlin.svg" alt="Kotlin" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.typescriptlang.org">
-    <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/jetbrains_intellij.svg" alt="IntelliJ IDEA" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://code.visualstudio.com">
-    <img src="https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
-  </a>
-
-<!--
-### Hi there 👋
-
-**alex-hedley/alex-hedley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://www.java.com/en/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
