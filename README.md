@@ -15,8 +15,10 @@
 ### Certified
 
 - Cloud Practitioner (Foundational)
+- WIP: ~~Developer (Associate)~~
 
 [![AWS Certified Cloud Practitioner](images/badges/AWS-Certified-Cloud-Practitioner_badge.png "AWS Certified Cloud Practitioner")](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+<a href="https://aws.amazon.com/certification/certified-developer-associate/"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Certified Developer - Associate" width="75" style="filter: grayscale(100%);"></a>
 
 ### Cloud Quest
 
@@ -26,6 +28,7 @@
 - Data Analytics
 - Machine Learning
 - Security
+- WIP: ~~Networking~~
 
 [![Cloud Quest](images/badges/cqallbadges4_c.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
@@ -33,13 +36,17 @@
 
 - Candidate
 - Certified in Cybersecurity℠ - CC
+- WIP: ~~Certified Secure Software Lifecycle Professional - CSSLP~~
 
 [![(ISC)² Candidate](images/badges/isc-candidate.png "(ISC)² Candidate")](https://www.isc2.org/Membership)
 [![(ISC)² CC](images/badges/CC.png "(ISC)² CC")](https://www.isc2.org/Certifications/CC)
+<a href="https://www.isc2.org/Certifications/CSSLP"><img src="https://www.isc2.org/-/media/ISC2/ISC2-Icons/0-current-square-cert-logos/CSSLP---Square.ashx?h=131&w=131&la=en&hash=26C6B46A3015F2EA4A275256874D5AC05AB69259" alt="CSSLP – Certified Secure Software Lifecycle Professional" width="60" style="filter: grayscale(100%);"></a>
 
 ### 📢 Find me elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexhedley/)
+<!-- [![A Cloud Guru](https://www.pluralsight.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/favicons/favicon.ico)](https://learn.acloud.guru/profile/alexhedley) -->
+<!-- ![Pluralsight](https://www.pluralsight.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/favicons/favicon.ico)](https://app.pluralsight.com/profile/alex--hedley) -->
 
 ### 🚧 I build with...
 
