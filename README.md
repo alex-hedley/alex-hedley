@@ -28,9 +28,17 @@
 - Data Analytics
 - Machine Learning
 - Security
-- WIP: ~~Networking~~
+- Networking
 
-[![Cloud Quest](images/badges/cqallbadges4_c.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+<!-- [![Cloud Quest](images/badges/cqallbadges4_c.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/) -->
+[![AWS Cloud Quest Cloud Practitioner](images/badges/AWSCloudQuestCloudPractitioner.png "AWS Cloud Quest Cloud Practitioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Solutions Architect](images/badges/AWSCloudQuestSolutionsArchitect.png "AWS Cloud Quest Solutions Architect")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Serverless Developer](images/badges/AWSCloudQuestServerlessDeveloper.png "AWS Cloud Quest Serverless Developer")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Machine Learning](images/badges/AWSCloudQuestMachineLearning.png "AWS Cloud Quest Machine Learning")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Security](images/badges/AWSCloudQuestSecurity.png "AWS Cloud Quest Security")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Data Analytics](images/badges/AWSCloudQuestDataAnalytics.png "AWS Cloud Quest Data Analytics")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Networking](images/badges/AWSCloudQuestNetworking.png "AWS Cloud Quest Networking")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
 
 ## (ISC)²
 
