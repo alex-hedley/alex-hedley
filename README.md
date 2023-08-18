@@ -1,6 +1,5 @@
-- [Site](https://alex-hedley.github.io/)
-- [🎙️ Talks](https://alex-hedley.github.io/talks)
-
+[![Site](https://img.shields.io/badge/Site-ccc?style=for-the-badge)](https://alex-hedley.github.io/)
+[![Talks](https://img.shields.io/badge/🎙️-Talks-ccc?style=for-the-badge)](https://alex-hedley.github.io/talks)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge)](https://alex-hedley.github.io/blog/)
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://alex-hedley.github.io/blog/feed.rss)
 
@@ -40,6 +39,8 @@
 [![AWS Cloud Quest Networking](images/badges/aws/AWSCloudQuestNetworking.png "AWS Cloud Quest Networking")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
 ## ISC2
+
+<!-- [![(ISC)²](https://img.shields.io/badge/(ISC)²-007054.svg?style=for-the-badge&logo=iscsquared&logoColor=white)](https://www.isc2.org/) -->
 
 - Candidate
 - Certified in Cybersecurity℠ - CC
