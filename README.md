@@ -50,6 +50,12 @@
 [![ISC2 CC](images/badges/isc2/isc2-certified-in-cybersecurity-cc.png "ISC2 CC")](https://www.isc2.org/Certifications/CC)
 [![ISC2 CSSLP](images/badges/isc2/isc2-certified-secure-software-lifecycle-professional-csslp.png "ISC2 CSSLP")](https://www.isc2.org/Certifications/CC)
 
+# The Linux Foundation
+
+- Green Software for Practitioners (LFC131)
+
+[![LFC131: Green Software for Practitioners](images/badges/linuxfoundation/lfc131.png "LFC131: Green Software for Practitioners")](https://trainingportal.linuxfoundation.org/courses/green-software-for-practitioners-lfc131)
+
 ### 📢 Find me elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexhedley/)
