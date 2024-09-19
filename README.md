@@ -28,6 +28,7 @@
 - Machine Learning
 - Security
 - Networking
+- ~~Generative AI~~
 
 <!-- [![Cloud Quest](images/badges/aws/cqallbadges4_c.png)](https://aws.amazon.com/training/digital/aws-cloud-quest/) -->
 [![AWS Cloud Quest Cloud Practitioner](images/badges/aws/AWSCloudQuestCloudPractitioner.png "AWS Cloud Quest Cloud Practitioner")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
@@ -37,12 +38,29 @@
 [![AWS Cloud Quest Security](images/badges/aws/AWSCloudQuestSecurity.png "AWS Cloud Quest Security")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 [![AWS Cloud Quest Data Analytics](images/badges/aws/AWSCloudQuestDataAnalytics.png "AWS Cloud Quest Data Analytics")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 [![AWS Cloud Quest Networking](images/badges/aws/AWSCloudQuestNetworking.png "AWS Cloud Quest Networking")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+[![AWS Cloud Quest Generative AI](images/badges/aws/AWSCloudQuestGenerativeAI_BW.png "AWS Cloud Quest Generative AI")](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
+### Industry Quest
+
+- ~~Financial Services~~
+- ~~Healthcare~~
+- ~~Manufacturing and Auto~~
+
+[![AWS Industry Quest Financial Services](images/badges/aws/IndustryQuest_FinancialServices_BW.png "AWS Industry Quest Financial Services")](https://aws.amazon.com/training/digital/aws-industry-quest/)
+[![AWS Industry Quest Healthcare](images/badges/aws/IndustryQuest_Healthcare_BW.png "AWS Industry Quest Healthcare")](https://aws.amazon.com/training/digital/aws-industry-quest/)
+[![AWS Industry Quest Manufacturing and Auto](images/badges/aws/IndustryQuest_ManufacturingAuto_BW.png "AWS Industry Quest Manufacturing and Auto")](https://aws.amazon.com/training/digital/aws-industry-quest/)
 
 ## GitHub
 
 - Foundations
+- ~~Actions~~
+- ~~Administration~~
+- ~~Advanced Security~~
 
 [![Foundations](images/badges/github/gh-foundations.png "Foundations")](https://resources.github.com/learn/certifications/)
+[![Actions](images/badges/github/gh-actions-bw.png "Actions")](https://resources.github.com/learn/certifications/)
+[![Administration](images/badges/github/gh-administration-bw.png "Administration")](https://resources.github.com/learn/certifications/)
+[![Advanced Security](images/badges/github/gh-advanced-security-bw.png "Advanced Security")](https://resources.github.com/learn/certifications/)
 
 ## ISC2
 
