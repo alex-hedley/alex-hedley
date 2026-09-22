@@ -56,11 +56,15 @@
 - ~~Actions~~
 - ~~Administration~~
 - ~~Advanced Security~~
+- Copilot
+- ~~Agentic AI Developer~~
 
 [![Foundations](images/badges/github/gh-foundations.png "Foundations")](https://resources.github.com/learn/certifications/)
 [![Actions](images/badges/github/gh-actions-bw.png "Actions")](https://resources.github.com/learn/certifications/)
 [![Administration](images/badges/github/gh-administration-bw.png "Administration")](https://resources.github.com/learn/certifications/)
 [![Advanced Security](images/badges/github/gh-advanced-security-bw.png "Advanced Security")](https://resources.github.com/learn/certifications/)
+[![Copilot](images/badges/github/gh-copilot.png "Copilot")](https://resources.github.com/learn/certifications/)
+[![Agentic AI Developer](images/badges/github/gh-agentic-bw.png "Agentic AI Developer")](https://resources.github.com/learn/certifications/)
 
 ## ISC2
 
